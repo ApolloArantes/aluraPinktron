@@ -14,7 +14,7 @@ const pecas = {
         "energia": 0,
         "velocidade": -20
     },
-    "nucleos":{
+    "nucleo":{
         "forca": 0,
         "poder": 7,
         "energia": 48,
